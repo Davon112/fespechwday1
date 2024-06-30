@@ -1,0 +1,29 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  box-sizing: inherit;
+  text-align: center;
+}
+
+:root ul {
+  margin-right: 35px;
+  list-style: none;
+  font-size: 30px;
+  background-color: bisque;
+}
+
+:root li:hover {
+  background-color: white;
+  color: blue;
+}
+
+:root h3,
+:root h1{
+  text-decoration: underline black 3px;
+
+}
+
+:root p {
+  font-size: 20px;
+}
